@@ -1,2 +1,1 @@
-#Hola humanos
-// Hola gente
+# Yo queria otro mas
